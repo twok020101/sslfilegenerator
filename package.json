@@ -8,6 +8,7 @@
   },
   "author": "Kshitij Kurandwad",
   "license": "ISC",
+  "git repository": "https://github.com/twok020101/sslfilegenerator.git",
   "dependencies": {
     "express": "^4.18.2",
     "superagent": "^8.0.9"
