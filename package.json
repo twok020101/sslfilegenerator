@@ -1,0 +1,15 @@
+{
+  "name": "sslfilegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sslgen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kshitij Kurandwad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "superagent": "^8.0.9"
+  }
+}
