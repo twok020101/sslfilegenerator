@@ -22,7 +22,7 @@ Create a small server where you can point any domain and copy server.js to some 
 		```sudo apt-get install certbot && sudo apt-get install openssl```
 	  ```npm i sslgenerator```
 	  Then you can directly use commands
-	  ``` node sslgenerator <function-name> <param1> <param2> <param3>
+	  ``` node sslgenerator <function-name> <param1> <param2> <param3>```
 
 	  Function name:
 		   1. certfiles : This command can be passed as function-name to generate ssl files
